@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Frameset Example</title>
+    <style>
+        /* Add styles for frames */
+        iframe {
+            border: none;
+        }
+    </style>
+</head>
+
+<frameset rows="50%,50%">
+    <frameset cols="50%,50%">
+        <frame src="frame1.html" style="background-color: lightblue;">
+            <frame src="frame2.html" style="background-color: lightgreen;">
+    </frameset>
+    <frameset cols="50%,50%">
+        <frame src="frame3.html" style="background-color: yellow;">
+            <frame src="frame4.html" style="background-color: pink;">
+    </frameset>
+</frameset>
+
+</html>
