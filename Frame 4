@@ -1,0 +1,15 @@
+<!-- frame4.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            background-color: pink;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<body>
+</body>
+</html>
