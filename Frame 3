@@ -1,0 +1,15 @@
+<!-- frame3.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            background-color: yellow;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<body>
+</body>
+</html>
